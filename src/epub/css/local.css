@@ -5,6 +5,10 @@ abbr.name{
 	white-space: nowrap;
 }
 
+abbr.initialism{
+	white-space: nowrap;
+}
+
 .notice{
 	display: block;
 }
@@ -13,10 +17,6 @@ abbr.name{
 	font-variant: small-caps;
 	text-indent: 0;
 	text-align: center;
-}
-
-.poetry-title{
-	font-variant: small-caps;
 }
 
 strong{
@@ -85,6 +85,12 @@ section[epub|type~="dedication"] p{
 [epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
+}
+
+[epub|type~="z3998:poem"] header{
+	margin-bottom: 0.5em;
+	font-variant: small-caps;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p + p{
