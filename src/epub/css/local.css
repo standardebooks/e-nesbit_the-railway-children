@@ -3,6 +3,7 @@
 
 .notice{
 	font-variant: small-caps;
+	display: block;
 }
 
 .poetry-title{
