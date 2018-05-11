@@ -6,14 +6,16 @@ abbr.name{
 }
 
 .notice{
-	font-variant: small-caps;
 	display: block;
 }
 
+.notice p{
+	font-variant: small-caps;
+	text-indent: 0;
+	text-align: center;
+}
+
 .poetry-title{
-	display: block;
-	text-indent: -1em;
-	padding-left: 1em;
 	font-variant: small-caps;
 }
 
