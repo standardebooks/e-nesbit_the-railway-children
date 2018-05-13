@@ -9,13 +9,8 @@ abbr.initialism{
 	white-space: nowrap;
 }
 
-.notice{
-	display: block;
-}
-
 .notice p{
 	font-variant: small-caps;
-	text-indent: 0;
 	text-align: center;
 }
 
@@ -55,10 +50,6 @@ section[epub|type~="dedication"] p{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:valediction"]{
-	text-align: right;
-}
-
 .signature{
 	font-variant: small-caps;
 }
@@ -67,6 +58,11 @@ section[epub|type~="dedication"] p{
 	margin-top: 1em;
 	text-align: left;
 	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] header{
+	margin-bottom: 1em;
+	font-variant: small-caps;
 }
 
 [epub|type~="z3998:song"] p,
@@ -85,12 +81,6 @@ section[epub|type~="dedication"] p{
 [epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
-}
-
-[epub|type~="z3998:poem"] header{
-	margin-bottom: 0.5em;
-	font-variant: small-caps;
-	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p + p{
