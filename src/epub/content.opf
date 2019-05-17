@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Railway Children</dc:title>
 		<meta property="file-as" refines="#title">Railway Children, The</meta>
 		<dc:subject id="subject-1">Railroads -- Fiction</dc:subject>
@@ -34,21 +34,24 @@
 		<dc:subject id="subject-3">England -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Family life -- Fiction</dc:subject>
 		<dc:subject id="subject-5">Brothers and sisters -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/1874</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1874</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1874</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1874</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/1874</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008101814</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2007101817</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Childrens</meta>
 		<dc:description id="description">After their father is forced to leave them, three children and their mother must live in near-poverty in the country, where their lives are enlivened by the nearby presence of a railway line.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Railway Children&lt;/i&gt; is Edith Nesbit’s most well-known and well-loved book for young readers. Since its first book publication in 1906, it has been made into movies, radio plays and television series several times, dramatised in the theatre, performed in actual railway stations and has even been turned into a musical.&lt;/p&gt;
 			&lt;p&gt;It tells the story of three children: Roberta, Peter and Phyllis, who with their mother are forced to leave their comfortable suburban home and go to live in a small cottage in the country, after their father is taken away from them for what at first seem inexplicable reasons. They live there very quietly, not going to school, whilst their mother writes stories and poems to earn a small income. The children’s lives, however, are greatly enlivened by their proximity to a nearby railway line and station, in which they take great interest. They befriend the railway staff and have several adventures in which they demonstrate considerable initiative and courage.&lt;/p&gt;
 			&lt;p&gt;One unusual topic touched on by the book is the then-current Russia-Japan war, which divided opinion in England. Nesbit was clearly opposed to the actions of the Tsarist government of Russia, and she introduces into the story a Tolstoy-like Russian writer who has escaped from a prison camp in Sibera, to which he was condemned for publishing a book espousing his liberal views.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1874</dc:source>
 		<dc:source>https://archive.org/details/railwaychildren00nesb_1</dc:source>
