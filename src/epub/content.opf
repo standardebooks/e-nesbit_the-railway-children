@@ -44,8 +44,8 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2007101817</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">After their father is forced to leave them, three children and their mother must live in near-poverty in the country, where their lives are enlivened by the nearby presence of a railway line.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Railway Children&lt;/i&gt; is Edith Nesbit’s most well-known and well-loved book for young readers. Since its first book publication in 1906, it has been made into movies, radio plays and television series several times, dramatised in the theatre, performed in actual railway stations and has even been turned into a musical.&lt;/p&gt;
