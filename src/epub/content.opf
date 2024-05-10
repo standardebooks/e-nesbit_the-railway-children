@@ -55,7 +55,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1874</dc:source>
 		<dc:source>https://archive.org/details/railwaychildren00nesb_1</dc:source>
 		<meta property="se:word-count">61787</meta>
-		<meta property="se:reading-ease.flesch">82.44</meta>
+		<meta property="se:reading-ease.flesch">82.54</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Railway_Children</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-nesbit_the-railway-children</meta>
 		<dc:creator id="author">E. Nesbit</dc:creator>
